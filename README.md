@@ -1,0 +1,1 @@
+This is a ML-Based project for finding out the errors from the datasets and also pre-processing and removal of features with no importance is done on the dataset. This is a project done for a hackathon.
